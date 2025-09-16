@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 15/09/2025
 
 ## AIM
 To develop a Django application to store and retrieve data from Car Inventory Database using Object Relational Mapping(ORM).
@@ -59,10 +59,12 @@ class CarAdmin(admin.ModelAdmin):
 Include the screenshot of your admin page.
 
 
-![alt text](<../Screenshot 2025-09-16 102833.png>)
+<img width="1913" height="941" alt="Screenshot 2025-09-16 102833" src="https://github.com/user-attachments/assets/0d5c2ebb-1a43-45bb-8cc1-da1845556832" />
 
-![alt text](<../Screenshot 2025-09-16 103051.png>)
 
+
+
+<img width="1712" height="913" alt="Screenshot 2025-09-16 103051" src="https://github.com/user-attachments/assets/5760f21e-5a29-41e3-8375-5fed684b9ee2" />
 
 
 
